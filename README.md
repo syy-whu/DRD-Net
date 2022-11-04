@@ -1,6 +1,6 @@
 # DRD-Net(pytorch)-
 
-This repository contains the Pytorch code for the paper Detail-recovery Image Deraining via Context Aggregation Networks (CVPR 2020) \[[arXiv(https://arxiv.org/pdf/1908.10267.pdf)\]. The code of Semi-DRDNet will be coming soon!
+This repository contains the Pytorch code for the paper Detail-recovery Image Deraining via Context Aggregation Networks (CVPR 2020) \[[arXiv(https://arxiv.org/pdf/1908.10267.pdf)\]. The code of Semi-DRDNet \[[arXiv(https://arxiv.org/pdf/2204.02772.pdf)\] will be coming soon!
 
 ## Prerequisites
 - Python 3.6, PyTorch >= 0.4.0 
