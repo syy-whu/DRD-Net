@@ -3,6 +3,7 @@
 This repository contains the Pytorch code for the paper Detail-recovery Image Deraining via Context Aggregation Networks (CVPR 2020) \[[arXiv(https://arxiv.org/pdf/1908.10267.pdf)\]. The code of Semi-DRDNet \[[arXiv(https://arxiv.org/pdf/2204.02772.pdf)\] will be coming soon!
 
 Download the **Real200** training and validation images from [Baidu Cloud](https://pan.baidu.com/s/167Njmt0uNZlUU_khnHN77w). The extracting code is **gvzd**.
+Download the **Real200** training and validation images from [Google Cloud](https://drive.google.com/drive/folders/1EGFjjp9IldUBDYGDIpJw3yePFZ7tMsTE?usp=sharing).
 
 ## Prerequisites
 - Python 3.6, PyTorch >= 0.4.0 
